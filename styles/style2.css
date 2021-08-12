@@ -1,0 +1,27 @@
+body
+{
+	background-color: black;
+	color: #ff9900;
+	font-size: small;
+	font-family: Verdana, "Trebuchet MS", Arial, sans-serif;
+}
+a
+{
+	text-decoration: none;
+	color: #005ce6;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+h1
+{
+	font-size: 500%;
+	color: #ff3300;
+}
+p
+{
+	font-size: 125%;
+}

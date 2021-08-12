@@ -1,0 +1,87 @@
+﻿#background{
+	width: 1920px;
+	height: 1080px;
+	position: absolute;
+}
+
+#html
+{
+	height: 980px;
+	width: 58%;
+	position: absolute;
+	left: 15% ;
+	top: 0.125%;
+	bottom: 0.125%;
+}
+
+#html center
+{
+	border-radius: 25px;
+}
+
+center
+{
+	background-color: #0d0d0d;
+	color: #00e600;
+	font-size: normal;
+	font-family:lucida, "lucida console";
+}
+
+th
+{
+	color: red;
+}
+
+th d
+{
+	color:  #0039e6;
+}
+
+
+
+#list, ul, ul a
+{
+	width: 150px;
+	margin: auto;
+	color: #ffff00;
+}
+
+p button
+{
+	border: none;
+	background-color: #0d0d0d;
+	font-family:lucida, "lucida console";
+}
+
+button
+{
+	background-color: #2E9AFE;
+	border: none;
+	color: #642EFE;
+}
+
+small 
+{
+	font-size: 75%;
+}
+
+video
+{
+	border-radius: 25px;
+}
+
+#dialog
+{
+	color: blue;
+}
+
+a
+{
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
